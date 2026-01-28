@@ -3,3 +3,6 @@ Hello ssh connection.
 Test file for sample download.
 
 And this is another commit from local machine.
+
+Testing reset
+
